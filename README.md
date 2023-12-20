@@ -26,6 +26,6 @@ php artisan db:seed
 php artisan serve
 ```
 ## Test url
-- **[users json data](localhost::8000/api/users)**
+- localhost::8000/api/users
 
 
